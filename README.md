@@ -16,16 +16,23 @@ Compilation Of the Projects.
 For compile and execute:-
 
 javac Distance_vect.java Link_state.java Server_UDP
+
 java Distance_vect
+
 java Link_state
+
 java Server_UDP
 
 Syntax for input in Link-state:-
+
 Enter the command in this format:
+
 link_state file-name node1 node2
 
 
 Syntax for input in Distance-vector:-
+
 Enter the command in this format:
+
 distance_vector initial_node file-name node1 node2
 
